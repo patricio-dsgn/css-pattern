@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+}
+
+
+.pattern {
+    list-style-type: none;
+    /* counter-reset: css-counter 0; initializes counter to 0; use -1 for zero-based numbering */
+  }
+  
+.pattern {
+    counter-increment: css-counter 1; /* Increase the counter by 1. */
+}
+
+.pattern:before {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    content: counter(css-counter) ". "; /* Apply counter before children's content. */
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    background: #000;
+}
+
+
+.pattern{
+    display: block;
+    width: 100%;
+    height: 150vh;
+    opacity: 1.0;
+    top: 0;
+    left: 0;
+    background-image: url("../img/__01.svg"); background-size: 72px;
+}
+
+.pattern:nth-child(1){background-image: url("../img/__01.svg"); background-size: 288px;}
+.pattern:nth-child(2){background-image: url("../img/__02.svg"); background-size: 288px;}
+.pattern:nth-child(3){background-image: url("../img/__03.svg"); background-size: 288px;}
+.pattern:nth-child(4){background-image: url("../img/__04.svg"); background-size: 288px;}
+.pattern:nth-child(5){background-image: url("../img/__05.svg"); background-size: 288px;}
+.pattern:nth-child(6){background-image: url("../img/__06.svg"); background-size: 288px;}
+.pattern:nth-child(7){background-image: url("../img/__07.svg"); background-size: 288px;}
+.pattern:nth-child(8){background-image: url("../img/__08.svg"); background-size: 288px;}
+.pattern:nth-child(9){background-image: url("../img/__09.svg"); background-size: 288px;}
+
+.pattern:nth-child(10){background-image: url("../img/__10.svg"); background-size: 288px;}
+.pattern:nth-child(11){background-image: url("../img/__11.svg"); background-size: 288px;}
+.pattern:nth-child(12){background-image: url("../img/__12.svg"); background-size: 288px;}
+.pattern:nth-child(13){background-image: url("../img/__13.svg"); background-size: 288px;}
+.pattern:nth-child(14){background-image: url("../img/__14.svg"); background-size: 288px;}
+.pattern:nth-child(15){background-image: url("../img/__15.svg"); background-size: 288px;}
+.pattern:nth-child(16){background-image: url("../img/__16.svg"); background-size: 288px;}
+.pattern:nth-child(17){background-image: url("../img/__17.svg"); background-size: 288px;}
+.pattern:nth-child(18){background-image: url("../img/__18.svg"); background-size: 288px;}
+.pattern:nth-child(19){background-image: url("../img/__19.svg"); background-size: 288px;}
+
+.pattern:nth-child(20){background-image: url("../img/__20.svg"); background-size: 288px;}
+.pattern:nth-child(21){background-image: url("../img/__21.svg"); background-size: 288px;}
+.pattern:nth-child(22){background-image: url("../img/__22.svg"); background-size: 288px;}
+.pattern:nth-child(23){background-image: url("../img/__23.svg"); background-size: 288px;}
+.pattern:nth-child(24){background-image: url("../img/__24.svg"); background-size: 288px;}
+.pattern:nth-child(25){background-image: url("../img/__25.svg"); background-size: 288px;}
+.pattern:nth-child(26){background-image: url("../img/__26.svg"); background-size: 288px;}
+.pattern:nth-child(27){background-image: url("../img/__27.svg"); background-size: 288px;}
+.pattern:nth-child(28){background-image: url("../img/__28.svg"); background-size: 288px;}
+.pattern:nth-child(29){background-image: url("../img/__29.svg"); background-size: 288px;}
+
+.pattern:nth-child(30){background-image: url("../img/__30.svg"); background-size: 288px;}
+.pattern:nth-child(31){background-image: url("../img/__31.svg"); background-size: 288px;}
+.pattern:nth-child(32){background-image: url("../img/__32.svg"); background-size: 288px;}
+.pattern:nth-child(33){background-image: url("../img/__33.svg"); background-size: 288px;}
+.pattern:nth-child(34){background-image: url("../img/__34.svg"); background-size: 288px;}
+.pattern:nth-child(35){background-image: url("../img/__35.svg"); background-size: 288px;}
+.pattern:nth-child(36){background-image: url("../img/__36.svg"); background-size: 288px;}
+.pattern:nth-child(37){background-image: url("../img/__37.svg"); background-size: 288px;}
+.pattern:nth-child(38){background-image: url("../img/__38.svg"); background-size: 288px;}
+.pattern:nth-child(39){background-image: url("../img/__39.svg"); background-size: 288px;}
+
+.pattern:nth-child(40){background-image: url("../img/__40.svg"); background-size: 288px;}

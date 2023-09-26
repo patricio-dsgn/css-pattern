@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    position: relative;
+}
+
+.menu-slide{
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+}
+
+.menu-slide #btn-up,
+.menu-slide #btn-down{
+    /* background-color: rgba(0,0,0,0.5); */
+    margin-top: 1px;
+    height: 50%;
+    width: 100%;
+}
