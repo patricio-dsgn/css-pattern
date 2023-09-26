@@ -38,50 +38,50 @@ body{
     opacity: 1.0;
     top: 0;
     left: 0;
-    background-image: url("../img/__01.svg"); background-size: 72px;
+    background-image: url("../img/a-01.svg"); background-size: 72px;
 }
 
-.pattern:nth-child(1){background-image: url("../img/__01.svg"); background-size: 288px;}
-.pattern:nth-child(2){background-image: url("../img/__02.svg"); background-size: 288px;}
-.pattern:nth-child(3){background-image: url("../img/__03.svg"); background-size: 288px;}
-.pattern:nth-child(4){background-image: url("../img/__04.svg"); background-size: 288px;}
-.pattern:nth-child(5){background-image: url("../img/__05.svg"); background-size: 288px;}
-.pattern:nth-child(6){background-image: url("../img/__06.svg"); background-size: 288px;}
-.pattern:nth-child(7){background-image: url("../img/__07.svg"); background-size: 288px;}
-.pattern:nth-child(8){background-image: url("../img/__08.svg"); background-size: 288px;}
-.pattern:nth-child(9){background-image: url("../img/__09.svg"); background-size: 288px;}
+.pattern:nth-child(1){background-image: url("../img/a-01.svg"); background-size: 288px;}
+.pattern:nth-child(2){background-image: url("../img/a-02.svg"); background-size: 288px;}
+.pattern:nth-child(3){background-image: url("../img/a-03.svg"); background-size: 288px;}
+.pattern:nth-child(4){background-image: url("../img/a-04.svg"); background-size: 288px;}
+.pattern:nth-child(5){background-image: url("../img/a-05.svg"); background-size: 288px;}
+.pattern:nth-child(6){background-image: url("../img/a-06.svg"); background-size: 288px;}
+.pattern:nth-child(7){background-image: url("../img/a-07.svg"); background-size: 288px;}
+.pattern:nth-child(8){background-image: url("../img/a-08.svg"); background-size: 288px;}
+.pattern:nth-child(9){background-image: url("../img/a-09.svg"); background-size: 288px;}
 
-.pattern:nth-child(10){background-image: url("../img/__10.svg"); background-size: 288px;}
-.pattern:nth-child(11){background-image: url("../img/__11.svg"); background-size: 288px;}
-.pattern:nth-child(12){background-image: url("../img/__12.svg"); background-size: 288px;}
-.pattern:nth-child(13){background-image: url("../img/__13.svg"); background-size: 288px;}
-.pattern:nth-child(14){background-image: url("../img/__14.svg"); background-size: 288px;}
-.pattern:nth-child(15){background-image: url("../img/__15.svg"); background-size: 288px;}
-.pattern:nth-child(16){background-image: url("../img/__16.svg"); background-size: 288px;}
-.pattern:nth-child(17){background-image: url("../img/__17.svg"); background-size: 288px;}
-.pattern:nth-child(18){background-image: url("../img/__18.svg"); background-size: 288px;}
-.pattern:nth-child(19){background-image: url("../img/__19.svg"); background-size: 288px;}
+.pattern:nth-child(10){background-image: url("../img/a-10.svg"); background-size: 288px;}
+.pattern:nth-child(11){background-image: url("../img/a-11.svg"); background-size: 288px;}
+.pattern:nth-child(12){background-image: url("../img/a-12.svg"); background-size: 288px;}
+.pattern:nth-child(13){background-image: url("../img/a-13.svg"); background-size: 288px;}
+.pattern:nth-child(14){background-image: url("../img/a-14.svg"); background-size: 288px;}
+.pattern:nth-child(15){background-image: url("../img/a-15.svg"); background-size: 288px;}
+.pattern:nth-child(16){background-image: url("../img/a-16.svg"); background-size: 288px;}
+.pattern:nth-child(17){background-image: url("../img/a-17.svg"); background-size: 288px;}
+.pattern:nth-child(18){background-image: url("../img/a-18.svg"); background-size: 288px;}
+.pattern:nth-child(19){background-image: url("../img/a-19.svg"); background-size: 288px;}
 
-.pattern:nth-child(20){background-image: url("../img/__20.svg"); background-size: 288px;}
-.pattern:nth-child(21){background-image: url("../img/__21.svg"); background-size: 288px;}
-.pattern:nth-child(22){background-image: url("../img/__22.svg"); background-size: 288px;}
-.pattern:nth-child(23){background-image: url("../img/__23.svg"); background-size: 288px;}
-.pattern:nth-child(24){background-image: url("../img/__24.svg"); background-size: 288px;}
-.pattern:nth-child(25){background-image: url("../img/__25.svg"); background-size: 288px;}
-.pattern:nth-child(26){background-image: url("../img/__26.svg"); background-size: 288px;}
-.pattern:nth-child(27){background-image: url("../img/__27.svg"); background-size: 288px;}
-.pattern:nth-child(28){background-image: url("../img/__28.svg"); background-size: 288px;}
-.pattern:nth-child(29){background-image: url("../img/__29.svg"); background-size: 288px;}
+.pattern:nth-child(20){background-image: url("../img/a-20.svg"); background-size: 288px;}
+.pattern:nth-child(21){background-image: url("../img/a-21.svg"); background-size: 288px;}
+.pattern:nth-child(22){background-image: url("../img/a-22.svg"); background-size: 288px;}
+.pattern:nth-child(23){background-image: url("../img/a-23.svg"); background-size: 288px;}
+.pattern:nth-child(24){background-image: url("../img/a-24.svg"); background-size: 288px;}
+.pattern:nth-child(25){background-image: url("../img/a-25.svg"); background-size: 288px;}
+.pattern:nth-child(26){background-image: url("../img/a-26.svg"); background-size: 288px;}
+.pattern:nth-child(27){background-image: url("../img/a-27.svg"); background-size: 288px;}
+.pattern:nth-child(28){background-image: url("../img/a-28.svg"); background-size: 288px;}
+.pattern:nth-child(29){background-image: url("../img/a-29.svg"); background-size: 288px;}
 
-.pattern:nth-child(30){background-image: url("../img/__30.svg"); background-size: 288px;}
-.pattern:nth-child(31){background-image: url("../img/__31.svg"); background-size: 288px;}
-.pattern:nth-child(32){background-image: url("../img/__32.svg"); background-size: 288px;}
-.pattern:nth-child(33){background-image: url("../img/__33.svg"); background-size: 288px;}
-.pattern:nth-child(34){background-image: url("../img/__34.svg"); background-size: 288px;}
-.pattern:nth-child(35){background-image: url("../img/__35.svg"); background-size: 288px;}
-.pattern:nth-child(36){background-image: url("../img/__36.svg"); background-size: 288px;}
-.pattern:nth-child(37){background-image: url("../img/__37.svg"); background-size: 288px;}
-.pattern:nth-child(38){background-image: url("../img/__38.svg"); background-size: 288px;}
-.pattern:nth-child(39){background-image: url("../img/__39.svg"); background-size: 288px;}
+.pattern:nth-child(30){background-image: url("../img/a-30.svg"); background-size: 288px;}
+.pattern:nth-child(31){background-image: url("../img/a-31.svg"); background-size: 288px;}
+.pattern:nth-child(32){background-image: url("../img/a-32.svg"); background-size: 288px;}
+.pattern:nth-child(33){background-image: url("../img/a-33.svg"); background-size: 288px;}
+.pattern:nth-child(34){background-image: url("../img/a-34.svg"); background-size: 288px;}
+.pattern:nth-child(35){background-image: url("../img/a-35.svg"); background-size: 288px;}
+.pattern:nth-child(36){background-image: url("../img/a-36.svg"); background-size: 288px;}
+.pattern:nth-child(37){background-image: url("../img/a-37.svg"); background-size: 288px;}
+.pattern:nth-child(38){background-image: url("../img/a-38.svg"); background-size: 288px;}
+.pattern:nth-child(39){background-image: url("../img/a-39.svg"); background-size: 288px;}
 
-.pattern:nth-child(40){background-image: url("../img/__40.svg"); background-size: 288px;}
+.pattern:nth-child(40){background-image: url("../img/a-40.svg"); background-size: 288px;}
